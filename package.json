@@ -1,0 +1,21 @@
+{
+  "name": "web",
+  "description": "Sample of JavaScript testing using Karma, Jasmine, and Chrome headless browser designed to work with Visual Studio Team Services",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VolareSystems/KarmaWithChromeHeadless"
+  },
+  "author": "Volare Systems, Inc.",
+  "license": "MIT",
+  "scripts": {
+    "test": "karma start"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.99.1",
+    "karma": "^2.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.1",
+    "puppeteer": "^1.0.0"
+  }
+}
