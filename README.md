@@ -1,2 +1,2 @@
-# JasmineKarmaWithChromeHeadless
-Javascript testing using Jasmine and Karma and Chrome headless browser
+# KarmaWithChromeHeadless
+Javascript testing using Karma, Jasmine, and Chrome headless browser
